@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceedawaiw.cxi.co/sitemap.xml
